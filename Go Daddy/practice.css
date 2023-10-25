@@ -1,0 +1,10 @@
+element.style {
+    z-index: 108000;
+    right: 20px;
+    bottom: 20px;
+    position: fixed;
+}
+#dc-dynamic-container-chiclet, #dc-messaging-bottom-right {
+    position: fixed !important;
+    z-index: 1999 !important;
+}

@@ -1,0 +1,812 @@
+.contact {
+    height: 43.5px;
+    width: 169.5px;
+    display: flex;
+    position: fixed;
+    border-radius: 40px;
+    margin-top: 428px;
+    margin-left: 919px;
+    border-color: blue;
+    cursor: pointer;
+    background-color: white;
+    border-inline-end-color:rgb(229, 10, 10) ;
+    border-inline-start-color: green;
+}
+.contact>img {
+    width: 25.5px;
+    height: 21px;
+    margin-top: 8px;
+    margin-left: 20px;
+}
+.contact>p {
+    margin-top: 12px;
+    margin-left: 4px;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.headerborder {
+    background-color: rgb(43,43,43);
+    height: 63px;
+    width: 100%;
+    margin-top: -1%;
+    margin-left: -8px;
+    position: absolute;
+}
+.hamburgersymbol {
+    width: 30px;
+    height: 22.4px;
+    margin-top: 8px;
+    margin-left: 31px;
+    cursor: pointer;
+    position: absolute;
+}
+.daddygo {
+    position: absolute;
+    cursor: pointer;
+    height: 45px;
+    width: 158px;
+    margin-left: 70px;
+    margin-top: 6px;
+}
+.headelements>.phone>i {
+    margin-top: 15px;
+    margin-left: 934px;
+    position: absolute;
+    color: white;
+    width: 60px;
+}
+.headelements>.question>i {
+    margin-top: 15px;
+    margin-left: 974px;
+    position: absolute;
+    color: white;
+    width: 60px;
+}
+.headelements>.user>i {
+    margin-top: 15px;
+    margin-left: 1013px;
+    position: absolute;
+    color: white;
+    width: 60px;
+}
+.headelements>.cart>i {
+    margin-top: 15px;
+    margin-left: 1050px;
+    position: absolute;
+    color: white;
+    width: 60px;
+}
+.header>a:visited {
+    text-decoration: none;
+}
+.SearchBox>.wholebox>.domainyouwant>input {
+    position: absolute;
+    margin-top: 77px;
+    margin-left: 55px;
+    height: 40px;
+    width: 375px;
+    border: 0px;
+    font-size: 25px;
+    box-sizing: border-box;
+    font-weight: bold;
+    border-radius: 0px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(235,235,235);
+    cursor: text;
+}
+
+.SearchBox>.wholebox>.typethedomain {
+    margin-top: 23px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 67.5px;
+    margin-top: 87.5px;
+    position: absolute;
+    font-weight: lighter;
+    color: rgb(90, 81, 81);
+}
+.SearchBox>.wholebox>.typethedomain:hover {
+    opacity: 0%;
+}
+.SearchBox>.domainyouwant:hover {
+    border-color: rgb(255, 255, 255);
+    border-radius: 0px;
+}
+.SearchButton {
+    position: absolute;
+    margin-left: 430px;
+    margin-top: 68px;
+    cursor: context-menu;
+}
+.SearchButtonimage {
+    height: 58px;
+    width: 92px;
+}
+.SearchButtonimage:hover {
+    transform:#00838C ;
+}
+.svgorg {
+    overflow: hidden;
+    vertical-align: unset;
+    position: absolute;
+    margin-left: 570px;
+    margin-top: 88px;
+    width: 38px;
+    height: 24px;
+}
+.SearchBox>.org:visited {
+    text-decoration: none;
+    color: rgb(150,150,150);
+}
+.SearchBox>.org>.costly1 {
+    margin-top: 93px;
+    margin-left: 608px;
+    position: absolute;
+    color: rgb(150,150,150);
+    font-size: 14px;
+    font-weight: bold;
+}
+.SearchBox>.in>.imgin {
+    height: 30px;
+    width: 30px;
+    margin-top: 84px;
+    margin-left: 691.5px;
+    position: absolute;
+}
+.SearchBox>.in:visited {
+    text-decoration: none;
+    color: rgb(150,150,150);
+}
+.SearchBox>.in>.costly2 {
+    margin-top: 94px;
+    margin-left: 725px;
+    position: absolute;
+    color: rgb(150,150,150);
+    font-size: 14px;
+    font-weight: bold;
+}
+.SearchBox>.app>.imgapp {
+    height: 27px;
+    width: 27px;
+    margin-top: 88px;
+    margin-left: 801px;
+    position: absolute;
+}
+.SearchBox>.app:visited {
+    text-decoration: none;
+    color: rgb(150,150,150);
+}
+.SearchBox>.app>.costly3 {
+    margin-top: 94px;
+    margin-left: 835px;
+    position: absolute;
+    color: rgb(150,150,150);
+    font-size: 14px;
+    font-weight: bold;
+}
+.SearchBox>.inc>.imginc {
+    height: 27px;
+    width: 40px;
+    margin-top: 88px;
+    margin-left: 930px;
+    position: absolute;
+}
+.SearchBox>.inc:visited {
+    text-decoration: none;
+    color: rgb(150,150,150);
+}
+.SearchBox>.inc>.costly4 {
+    margin-top: 94px;
+    margin-left: 972px;
+    position: absolute;
+    color: rgb(150,150,150);
+    font-size: 14px;
+    font-weight: bold;
+}
+.secondimage {
+    margin-left: 37px;
+    position: absolute;
+    margin-top: 143px;
+}
+.secondbutton {
+    margin-top: 352.7px;
+    margin-left: 61.3px;
+    position: absolute;
+    cursor: pointer;
+    height: 47.5px;
+    width: 165px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    border: none;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    transition: cubic-bezier(1, 0, 0, 1);
+}
+.pinkbox {
+    box-sizing: border-box;
+    background-color: rgb(253,233,219);
+    height: 220px;
+    width: 93%;
+    border-radius: 5px;
+    margin-left: 37px;
+    margin-top: 550px;
+    cursor: context-menu;
+    position: absolute;
+}
+.pinkbox>.firstline {
+    font-weight: 550;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 25px;
+    font-size: large;
+    margin-top: 8px;
+    position: absolute;
+    cursor: text;
+}
+.pinkbox>.secondline {
+    font-weight: bolder;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 40px;
+    margin-left: 23px;
+    display: flex;
+    position: absolute;
+    cursor: text;
+}
+
+.pinkbox>.butt {
+    background-color: black;
+    color: white;
+    margin-left: 697px;
+    margin-top: 80px;
+    display: block;
+    position: absolute;
+    box-sizing: border-box;
+    border-radius: 5px;
+    height: 48px;
+    width: 131px;
+    border: none;
+    cursor: pointer;
+}
+
+.pinkbox>.butt>.inside {
+    text-align: center;
+    box-sizing: border-box;
+    white-space: nowrap;
+    margin-left: 2px;
+    margin-top: 13px;
+    font-weight: 695;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    font-size: 16px;
+    line-height: 24px;
+    
+}
+
+.pinkbox>.rightside {
+    display: block;
+    position: absolute;
+    margin-left: 843px;
+    margin-top: 92px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+.pinkbox>.rightside:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.pinkbox>.lastline {
+    margin-left: 25px;
+    margin-top: 170px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    cursor: text;
+    position: absolute;
+}
+.centercontent {
+    margin-top: 808px;
+}
+.centercontent>.lineone {
+    font-size: 48px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    cursor: text;
+    margin-left: 208px;
+    margin-top: 0px;
+    position: absolute;
+}
+
+.centercontent>.linetwo {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    cursor: text;
+    margin-left: 178px;
+    margin-top: 77px;
+    position: absolute;
+}
+.img1, .prof, .Show, .aslow1, .exp1, .cost1 {
+    margin-left: 65px;
+}
+.img2, .web, .Whether, .aslow2, .exp2, .cost2 {
+    margin-left: 58px;
+}
+.img1, .img2 {
+    margin-top: 146px;
+}
+.prof, .web {
+    font-size: 35px;
+    cursor: text;
+    margin-top: 9px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Show, .Whether {
+    margin-top: -24px;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+}
+.aslow1, .aslow2 {
+    margin-top: 7px;
+} 
+.cost1, .cost2 {
+    margin-top: -10px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.exp2 {
+    position: relative;
+    padding: 12px 24px;
+    background-color: rgb(240,240,240);
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    font-weight: bolder;
+    border: 2px;
+    border-color: black;
+    border-radius: 0px;
+    cursor: pointer;
+    outline: none;
+    overflow: hidden;
+}
+.exp2::before {
+    content: 'Explore Plans →';
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    width: 100%;
+    height: 100%;
+    background-color: rgb(240,240,240);
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px;
+    opacity: 0;
+    transition: opacity 0.3s, transform 0.3s;
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+    background-size: 20px;
+}
+.exp2:hover::before {
+    opacity: 4;
+    transform: translateX(25% 0%);
+}
+
+.exp1 {
+    position: relative;
+    padding: 12px 24px;
+    background-color: rgb(240,240,240);
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    font-weight: bolder;
+    border: 2px;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+    overflow: hidden;
+}
+.exp1::before {
+    content: 'Explore Plans →';
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    width: 100%;
+    height: 100%;
+    background-color: rgb(240,240,240);
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px;
+    opacity: 0;
+    transition: opacity 0.3s, transform 0.3s;
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+    background-size: 16px;
+}
+.exp1:hover::before {
+    opacity: 4;
+    transform: translateX(25% 0%);
+}
+
+.women {
+    margin-top: 60px;
+}
+.bg {
+    width: 100%;
+    height: 470px;
+    background-color: rgb(225,234,247);
+    position: absolute;
+    margin-left: -10px;
+    margin-top: 0px;
+}
+.Womenpic {
+    position: absolute;
+    height: 470px;
+    width: 50%;
+    margin-top: 0px;
+    margin-left: -10px;
+}
+.Suraiya {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 58px;
+    margin-left: 38px;
+    position: absolute;
+}
+.Guide {
+    font-size: 15px;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 78px;
+    margin-left: 38px;
+    position: absolute;
+}
+.daddytable {
+    height: 58px;
+    width: 230px;
+    margin-top: 40px;
+    margin-left: 586px;
+}
+.daddytable, .help, .Still, .welove {
+    position: relative;
+}
+.welove {
+    margin-left: 601px;
+    font-size: 46px;
+    margin-top: 24px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Still {
+    margin-left: 601px;
+    margin-top: -25px;
+    cursor: text;
+    line-height: 23px;
+    font-weight: 400;
+}
+.help {
+    height: 51px;
+    width: 164px;
+    margin-left: 601px;
+    margin-top: 16px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+}
+.arrowimage {
+    height: 20px;
+    width: 100px;
+}
+
+.help>.arrowimage:hover {
+    opacity: 0%;
+}
+.disccontent {
+    margin-top: 95px;
+    margin-left: 37px;
+    text-decoration: underline;
+    color: black;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 16px;
+    display: inline-block;
+}
+.disclaimer>.disccontent>.Disclaimers:visited {
+    text-decoration: none;
+    color: black;
+    
+}
+.Third-party {
+    margin-left: 37px;
+    margin-top: 10px;
+    font-size: 16.2px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Need {
+    width: 100%;
+    height: 79px;
+    margin-top: 21px;
+    margin-left: -8px;
+    background-color: rgb(245,247,248);
+    position: absolute;
+}
+.Needhelp {
+    position: absolute;
+    margin-top: 31px;
+    margin-left: 227px;
+    font-size: 21px;
+    font-weight: 549;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Offer {
+    background-color: rgb(43,43,43);
+    height: 51px;
+    width: 100%;
+    position: absolute;
+    margin-left: -10px;
+    margin-top: 100px;
+}
+.Offersimage {
+    position: absolute;
+    margin-left: 38px;
+    margin-top: 6px;
+    width: 39px;
+    height: 33px;
+    cursor: pointer;
+}
+.Greaterthan {
+    width: 30px;
+    height: 35px;
+    margin-left: 79px;
+    margin-top: 9px;
+    position: absolute;
+}
+.Offers {
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin-top: 18px;
+    margin-left: 114px;
+    position: absolute;
+}
+.bottom-black {
+    background-color: rgb(17,17,17);
+    height: 810px;
+    width: 100%;
+    margin-left: -10px;
+    margin-top: 151px;
+    position: absolute;
+}
+
+.bottom-black>.we-love>h1 {
+    margin-top: 25px;
+    margin-left: 71px;
+    position: absolute;
+    color: rgb(68,68,68);
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bottom-black>.image>img {
+    height: 68px;
+    width: 37.3%;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 62px;
+}
+
+.bottom-black>hr {
+    background-color: rgb(255, 255, 255);
+    margin-top: 102px;
+    width: 100%;
+    position: absolute;
+} 
+
+.bottom-black>.column1 {
+    width: 180px;
+    height: 432px;
+    position: absolute;
+    text-align: left;
+    color: white;
+    font-weight: 300;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 114px;
+    margin-left: 50px;
+    border: none;
+    cursor: text;
+    line-height: 22px;
+}
+.AboutUs:hover, .Annual:hover, .Careers:hover, .ContactUs:hover, .Corporate:hover, .DaddyBlog:hover, .Investor:hover, .LegalDaddy:hover, .Newsroom:hover, .TrustCenter:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+.bottom-black>.column2 {
+    height: 204px;
+    position: absolute;
+    text-align: left;
+    color: white;
+    font-weight: 300;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 114px;
+    margin-left: 286px;
+    border: none;
+    cursor: text;
+    line-height: 22px;
+}
+.Product:hover, .Community:hover, .Abuse:hover, .Resources:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+.bottom-black>.column3 {
+    height: 366px;
+    text-align: left;
+    color: white;
+    font-weight: 300;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 114px;
+    margin-left: 438px;
+    border: none;
+    position: absolute;
+    cursor: text;
+    line-height: 22px;
+}
+.Webmail:hover, .WHOIS:hover, .ICANN:hover, .Designers:hover, .Redeem:hover, .Product:hover, .Customer:hover, .Business:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+.bottom-black>.column4 {
+    height: 143px;
+    text-align: left;
+    color: white;
+    font-weight: 300;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 114px;
+    margin-left: 645px;
+    border: none;
+    position: absolute;
+    cursor: text;
+    line-height: 22px;
+}
+.Affiliates:hover, .Reseller:hover, .GoDaddyPro:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.bottom-black>.column5 {
+    height: 171px;
+    text-align: left;
+    color: white;
+    font-weight: 300;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 114px;
+    margin-left: 828px;
+    border: none;
+    position: absolute;
+    cursor: text;
+    line-height: 22px;
+}
+.MyProducts:hover, .Renewals:hover, .Create:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+.bottom-black>.column6 {
+    height: 284px;
+    text-align: left;
+    color: white;
+    font-weight: 300;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 114px;
+    margin-left: 990px;
+    border: none;
+    position: absolute;
+    cursor: text;
+    line-height: 22px;
+}
+.Buy:hover, .Websites:hover, .Word:hover, .Host:hover, .WebSecure:hover, .Email:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+.icons>.lastdaddy {
+    margin-top: 555px;
+    width: 44%;
+    position: absolute;
+    cursor: pointer;
+}
+.icons>.firsticon>i {
+    margin-top: 579px;
+    margin-left: 981px;
+    color: white;
+    position: absolute;
+}
+.icons>.secondicon>i {
+    margin-top: 579px;
+    margin-left: 1022px;
+    color: white;
+    position: absolute;
+}
+.icons>.thirdicon>i {
+    margin-top: 579px;
+    margin-left: 1057px;
+    color: white;
+    position: absolute;
+}
+a:visited {
+    text-decoration: none;
+    color: white;
+}
+.bottom-black>.lasthrline>hr {
+    margin-top: 620px;
+    width: 100%;
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+}
+.bottom-black>.Copyright {
+    position: absolute;
+    margin-left: 47px;
+    margin-top: 641px;
+    color: white;
+    font-size: 12.8px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 18px;
+    cursor: context-menu;
+}
+.bottom-black>.Use {
+    position: absolute;
+    margin-top: 700px;
+    color: white;
+    margin-left: 47px;
+    cursor: context-menu;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12.2px;
+    line-height: 18px;
+    font-weight: bold;
+}
+.bottom-black>.Use>.Universal {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    
+}
+.bottom-black>.Legal, .Privacy, .Cookies {
+    position: absolute;
+    color: white;
+    font-size: 12.1px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 642.4px;
+}
+.bottom-black>.Legal:hover, .Privacy:hover, .Cookies:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+.bottom-black>.Legal {
+    margin-left: 884px;
+}
+.bottom-black>.Privacy {
+    margin-left: 935px;
+}
+.bottom-black>.Cookies {
+    margin-left: 1031px;
+}
